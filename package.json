@@ -1,0 +1,21 @@
+{
+  "name": "design-files",
+  "version": "1.0.0",
+  "description": "![](frontal.png)",
+  "main": "index.js",
+  "scripts": {
+    "build":"sh ./bin/create-icns.sh && sh ./bin/create-ico.sh",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frntl/design-files.git"
+  },
+  "keywords": [],
+  "author": "Fabian 'fabiantheblind' Morón Zirfas <fabian.moron.zirfas@gmail.com> (http://fabianmoronzirfas.me)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frntl/design-files/issues"
+  },
+  "homepage": "https://github.com/frntl/design-files#readme"
+}
